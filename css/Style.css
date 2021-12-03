@@ -1,0 +1,27 @@
+@import url(components/ui_2.css);
+@import url(components/ui_1.css);
+@import url(components/ui_7.css);
+@import url(components/ui_5.css);
+
+.saving {
+  color: #F0F;
+}
+.curing {
+	color: #F0F;
+}
+.shelter {
+	color: #F0F;
+}
+#color_text {
+  color: black;
+
+
+@media (max-device-width: 960px) {
+    width: 700px;
+  }
+  @media (max-device-width: 720px){
+  	width: 500px
+  }
+  @media(max-device-width: 540px){
+  	width: 300px
+  }
